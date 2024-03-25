@@ -1,0 +1,152 @@
+#roulette .roulette-section:first-child {
+    transform: rotate(0deg) skewY(-60deg);
+    -webkit-transform: rotate(0deg) skewY(-60deg);
+    -moz-transform: rotate(0deg) skewY(-60deg);
+    -ms-transform: rotate(0deg) skewY(-60deg);
+    -o-transform: rotate(0deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(2) {
+    transform: rotate(20deg) skewY(-60deg);
+    -webkit-transform: rotate(20deg) skewY(-60deg);
+    -moz-transform: rotate(20deg) skewY(-60deg);
+    -ms-transform: rotate(20deg) skewY(-60deg);
+    -o-transform: rotate(20deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(3) {
+    transform: rotate(40deg) skewY(-60deg);
+    -webkit-transform: rotate(40deg) skewY(-60deg);
+    -moz-transform: rotate(40deg) skewY(-60deg);
+    -ms-transform: rotate(40deg) skewY(-60deg);
+    -o-transform: rotate(40deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(4) {
+    transform: rotate(60deg) skewY(-60deg);
+    -webkit-transform: rotate(60deg) skewY(-60deg);
+    -moz-transform: rotate(60deg) skewY(-60deg);
+    -ms-transform: rotate(60deg) skewY(-60deg);
+    -o-transform: rotate(60deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(5) {
+    transform: rotate(80deg) skewY(-60deg);
+    -webkit-transform: rotate(80deg) skewY(-60deg);
+    -moz-transform: rotate(80deg) skewY(-60deg);
+    -ms-transform: rotate(80deg) skewY(-60deg);
+    -o-transform: rotate(80deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(6) {
+    transform: rotate(100deg) skewY(-60deg);
+    -webkit-transform: rotate(100deg) skewY(-60deg);
+    -moz-transform: rotate(100deg) skewY(-60deg);
+    -ms-transform: rotate(100deg) skewY(-60deg);
+    -o-transform: rotate(100deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(7) {
+    transform: rotate(120deg) skewY(-60deg);
+    -webkit-transform: rotate(120deg) skewY(-60deg);
+    -moz-transform: rotate(120deg) skewY(-60deg);
+    -ms-transform: rotate(120deg) skewY(-60deg);
+    -o-transform: rotate(120deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(8) {
+    transform: rotate(140deg) skewY(-60deg);
+    -webkit-transform: rotate(140deg) skewY(-60deg);
+    -moz-transform: rotate(140deg) skewY(-60deg);
+    -ms-transform: rotate(140deg) skewY(-60deg);
+    -o-transform: rotate(140deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(9) {
+    transform: rotate(160deg) skewY(-60deg);
+    -webkit-transform: rotate(160deg) skewY(-60deg);
+    -moz-transform: rotate(160deg) skewY(-60deg);
+    -ms-transform: rotate(160deg) skewY(-60deg);
+    -o-transform: rotate(160deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(10) {
+    transform: rotate(180deg) skewY(-60deg);
+    -webkit-transform: rotate(180deg) skewY(-60deg);
+    -moz-transform: rotate(180deg) skewY(-60deg);
+    -ms-transform: rotate(180deg) skewY(-60deg);
+    -o-transform: rotate(180deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(11) {
+    transform: rotate(200deg) skewY(-60deg);
+    -webkit-transform: rotate(200deg) skewY(-60deg);
+    -moz-transform: rotate(200deg) skewY(-60deg);
+    -ms-transform: rotate(200deg) skewY(-60deg);
+    -o-transform: rotate(200deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(12) {
+    transform: rotate(220deg) skewY(-60deg);
+    -webkit-transform: rotate(220deg) skewY(-60deg);
+    -moz-transform: rotate(220deg) skewY(-60deg);
+    -ms-transform: rotate(220deg) skewY(-60deg);
+    -o-transform: rotate(220deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(13) {
+    transform: rotate(240deg) skewY(-60deg);
+    -webkit-transform: rotate(240deg) skewY(-60deg);
+    -moz-transform: rotate(240deg) skewY(-60deg);
+    -ms-transform: rotate(240deg) skewY(-60deg);
+    -o-transform: rotate(240deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(14) {
+    transform: rotate(260deg) skewY(-60deg);
+    -webkit-transform: rotate(260deg) skewY(-60deg);
+    -moz-transform: rotate(260deg) skewY(-60deg);
+    -ms-transform: rotate(260deg) skewY(-60deg);
+    -o-transform: rotate(260deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(15) {
+    transform: rotate(280deg) skewY(-60deg);
+    -webkit-transform: rotate(280deg) skewY(-60deg);
+    -moz-transform: rotate(280deg) skewY(-60deg);
+    -ms-transform: rotate(280deg) skewY(-60deg);
+    -o-transform: rotate(280deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(16) {
+    transform: rotate(300deg) skewY(-60deg);
+    -webkit-transform: rotate(300deg) skewY(-60deg);
+    -moz-transform: rotate(300deg) skewY(-60deg);
+    -ms-transform: rotate(300deg) skewY(-60deg);
+    -o-transform: rotate(300deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(17) {
+    transform: rotate(320deg) skewY(-60deg);
+    -webkit-transform: rotate(320deg) skewY(-60deg);
+    -moz-transform: rotate(320deg) skewY(-60deg);
+    -ms-transform: rotate(320deg) skewY(-60deg);
+    -o-transform: rotate(320deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(18) {
+    transform: rotate(340deg) skewY(-60deg);
+    -webkit-transform: rotate(340deg) skewY(-60deg);
+    -moz-transform: rotate(340deg) skewY(-60deg);
+    -ms-transform: rotate(340deg) skewY(-60deg);
+    -o-transform: rotate(340deg) skewY(-60deg);
+}
+
+#roulette .roulette-section:nth-child(19) {
+    transform: rotate(360deg) skewY(-60deg);
+    -webkit-transform: rotate(360deg) skewY(-60deg);
+    -moz-transform: rotate(360deg) skewY(-60deg);
+    -ms-transform: rotate(360deg) skewY(-60deg);
+    -o-transform: rotate(360deg) skewY(-60deg);
+}
+

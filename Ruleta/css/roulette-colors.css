@@ -1,0 +1,64 @@
+#roulette .roulette-section:first-child .roulette-section-container {
+    background: #df0978; 
+}
+#roulette .roulette-section:nth-child(2) .roulette-section-container {
+	background: #8d078d; 
+}
+#roulette .roulette-section:nth-child(3) .roulette-section-container {
+	background: #3a63ba; 
+}
+#roulette .roulette-section:nth-child(4) .roulette-section-container {
+	background: #4fa1de;  
+}
+#roulette .roulette-section:nth-child(5) .roulette-section-container {
+	background: #23bb23;  
+}
+#roulette .roulette-section:nth-child(6) .roulette-section-container {
+	background: #46b545;  
+}
+#roulette .roulette-section:nth-child(7) .roulette-section-container {
+	background: #88c740;  
+}
+#roulette .roulette-section:nth-child(8) .roulette-section-container {
+	background: #f2f215;  
+}
+#roulette .roulette-section:nth-child(9) .roulette-section-container {
+	background: #f1b041;  
+}
+#roulette .roulette-section:nth-child(10) .roulette-section-container {
+	background: #e35825;  
+}
+#roulette .roulette-section:nth-child(11) .roulette-section-container {
+	background: #e01423;  
+}
+#roulette .roulette-section:nth-child(12) .roulette-section-container {
+	background: #ffae00;  
+}
+
+#roulette .roulette-section:nth-child(13) .roulette-section-container {
+	background: #f1f3f0;  
+}
+
+#roulette .roulette-section:nth-child(14) .roulette-section-container {
+	background: #00ff37;  
+}
+
+#roulette .roulette-section:nth-child(15) .roulette-section-container {
+	background: #360c5e;  
+}
+
+#roulette .roulette-section:nth-child(16) .roulette-section-container {
+	background: #8400ff;  
+}
+
+#roulette .roulette-section:nth-child(17) .roulette-section-container {
+	background: #a35fe4;  
+}
+
+#roulette .roulette-section:nth-child(18) .roulette-section-container {
+	background: #db2eb6;  
+}
+
+#roulette .roulette-section:nth-child(19) .roulette-section-container {
+	background: #da0fae;  
+}
